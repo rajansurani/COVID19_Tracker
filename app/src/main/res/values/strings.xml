@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">COVID19 Tracker</string>
+    <string name="status">Current Status</string>
+    <string name="lastUpdated">Last Updated</string>
+    <string name="UpdateTime">Time</string>
+    <string name="confirmed">CONFIRMED</string>
+    <string name="count">Count</string>
+    <string name="inc_count">Increase</string>
+    <string name="active">ACTIVE</string>
+    <string name="recovered">RECOVERED</string>
+    <string name="deceased">DECEASED</string>
+    <string name="state">State Name</string>
+    <string name="statewise">Statewise Status</string>
+    <string name="districtwise">Districtwise Status</string>
+    <string name="district">District Name</string>
+    <string name="datasource">All the data shown in this app is taken from an crowd sourced api - api.covid19india.org</string>
+    <string name="createdby">App made by  : Rajan Surani</string>
+</resources>
